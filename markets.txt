@@ -1,0 +1,6 @@
+market	name	street-address	city	state	country
+amazon	Amazon Corporation	345 Bezo Ave	Sioux City	IA	USA
+alibris	Alibris LLC	5332 Nottingham St	London	Coventry	Great Britian
+half	Half Corporation	87 North Cresent Blvd	Los Angeles	CA	USA
+ebay	ebay Corporation	33 Whitman Dr	Meg	IL	USA
+abebooks	AbeBooks	345 Homebase Ct	Marvin	TX	USA
